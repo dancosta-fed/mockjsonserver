@@ -1,5 +1,4 @@
-{
-  UserPostData = [
+ [
     {
       id: 1,
       image: 'https://res.cloudinary.com/dognkye6x/image/upload/v1691335926/IMG_5795_osem8r.jpg',
@@ -69,5 +68,4 @@
       }
     },
   
-  ];
-}
+  ]
