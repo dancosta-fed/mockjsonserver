@@ -10,7 +10,8 @@
       "aprovacao": 20,
       "materia": "Javascript | Typescript",
       "disponibilidade": "Sextas e Sábados",
-      "email": "dancosta.id@gmail.com"
+      "email": "dancosta.id@gmail.com",
+      "descricao": "Daniel é um entusiasta de programação que adora compartilhar seus conhecimentos em Javascript e Typescript. Com uma abordagem didática, ele oferece monitorias nas sextas e sábados para ajudar os alunos a mergulhar no mundo do desenvolvimento web."
     }
   },
   {
@@ -23,7 +24,8 @@
       "aprovacao": 15,
       "materia": "ATP | POO",
       "disponibilidade": "Segunda à Sexta",
-      "email": "teste@tes.com"
+      "email": "teste@tes.com",
+      "descricao": "Bruna é uma entusiasta de programação orientada a objetos e teoria da programação. Sua disponibilidade de segunda a sexta permite que os alunos mergulhem nos conceitos fundamentais da programação com um foco especial em orientação a objetos."
     }
   },
 
@@ -37,7 +39,8 @@
       "aprovacao": 5,
       "materia": "Engenharia Espacial de Twitter",
       "disponibilidade": "Quartas e Sextas",
-      "email": "teste@hollywood.com"
+      "email": "teste@hollywood.com",
+      "descricao": "Elon, conhecido por seus empreendimentos futuristas, traz sua paixão pela engenharia espacial para o mundo do Twitter. Suas monitorias nas quartas e sextas oferecem uma visão única sobre a aplicação de ideias revolucionárias na esfera digital."
     }
   },
 
@@ -51,7 +54,8 @@
       "aprovacao": 35,
       "materia": "Banco de Dados",
       "disponibilidade": "Segunda e Quarta",
-      "email": "teste@hollywood.com"
+      "email": "teste@hollywood.com",
+      "descricao": "Margot traz seu talento para o mundo dos dados, oferecendo monitorias sobre bancos de dados nas segundas e quartas. Com sua experiência, ela ajuda os alunos a entenderem a importância e a aplicação prática dos sistemas de dados."
     }
   },
 
@@ -65,8 +69,9 @@
       "aprovacao": 105,
       "materia": "Inovação",
       "disponibilidade": "Terças e Quintas",
-      "email": "teste@hollywood.com"
+      "email": "teste@hollywood.com",
+      "descricao": "Bart é um verdadeiro disruptor, trazendo sua criatividade e ideias inovadoras para suas monitorias. Nas terças e quintas, ele compartilha insights sobre inovação, inspirando os alunos a pensar fora da caixa e abraçar a criatividade em todos os projetos."
     }
   }
-]
+ ]
 }
